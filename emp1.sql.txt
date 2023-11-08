@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[EMP1] (
+    [EMPNO]   NCHAR (10) NULL,
+    [EMPNAME] NCHAR (10) NULL,
+    [DEPT]    NCHAR (10) NULL
+);
